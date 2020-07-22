@@ -1,5 +1,4 @@
 # SimpleMVC-App
----
 
 MVC Architecture : Models - Views - Controllers
 
